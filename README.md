@@ -25,3 +25,30 @@ Computer Programming
 Applied Physics
 <br>
 Islamiyat
+<br>
+SCM
+<br>
+Statics
+<br>
+Functional English
+<br>
+Islamiyat
+<br>
+SDLC
+<br>
+OOP
+<br>
+Discrete Structure
+
+
+
+
+
+
+
+
+
+
+
+
+
