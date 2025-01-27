@@ -15,3 +15,13 @@ Chemistry
 Pakstudy
 <br>
 Tarjama tul Quran
+<br>
+EHS
+<br>
+ITS
+<br>
+Computer Programming
+<br>
+Applied Physics
+<br>
+Islamiyat
