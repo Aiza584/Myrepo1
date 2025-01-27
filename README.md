@@ -28,7 +28,7 @@ Islamiyat
 <br>
 SCM
 <br>
-statics
+Statics
 <br>
 Functional English
 <br>
